@@ -1,6 +1,8 @@
 /**
  * Created by Serg on 19.03.2017.
  */
+
+
 class Tax {
     double grossIncome; // class member variables
     String state;

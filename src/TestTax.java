@@ -1,6 +1,8 @@
 /**
  * Created by Serg on 19.03.2017.
  */
+
+
 class TestTax {
     public static void main(String[] args){
         double grossIncome;
